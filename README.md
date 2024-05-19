@@ -5,4 +5,4 @@ How important is a good education? While numerous studies have proved that highe
 
 <img width="419" alt="Screenshot 2024-05-19 at 2 40 24 PM" src="https://github.com/Brian25Git/Education-Life-Expectancy-Project/assets/109079456/0a5ed7c4-1d8c-42e4-aaa7-e517fa16608c">
 <img width="419" alt="Screenshot 2024-05-19 at 2 41 52 PM" src="https://github.com/Brian25Git/Education-Life-Expectancy-Project/assets/109079456/4261e687-d953-421c-ba8b-922b7dc3c767">
-<img width="419" alt="Screenshot 2024-05-19 at 2 42 29 PM" src="https://github.com/Brian25Git/Education-Life-Expectancy-Project/assets/109079456/a91e934a-31f4-42df-bdc5-31dfc6f90541">
+<img width="420" alt="Screenshot 2024-05-19 at 2 48 06 PM" src="https://github.com/Brian25Git/Education-Life-Expectancy-Project/assets/109079456/590801db-ee1b-488f-aee8-417af832a11b">
